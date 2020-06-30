@@ -1,26 +1,28 @@
-# benchmarks
+# Benchmarks
 
-The following bencharks are provided:
+The following benchmarks are provided under *oxford-arc*:
 
 ## Synthetic benchmarks
 
-HPL
-IOR
-Bonnie++
-Linktest
+- HPL
+- IOR
+- Bonnie++
+- Linktest
 
-## Single Node GPU
+## Application Benchmarks
 
-GROMACS
-TensorFlow
+### Single Node GPU
 
-## Single Node CPU
+- GROMACS
+- TensorFlow
 
-OpenFOAM v1912
+### Single Node CPU
 
-## Multinode CPU
+- OpenFOAM v1912
 
-GROMACS
-VASP
-NAMD
+### Multinode CPU
+
+- GROMACS
+- VASP
+- NAMD
 
