@@ -2,7 +2,7 @@
 
 The following benchmarks are available and should be used where requested. Where appropriate we have provided instructions for building and running the benchmark and the results we have obtained on our system. 
 
-## Synthetic benchmarks
+## Synthetic Benchmarks
 
 - HPL
 - IOR
