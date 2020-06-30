@@ -13,12 +13,12 @@ The following benchmarks are provided under *oxford-arc*:
 
 ### Single Node GPU
 
-- GROMACS
-- TensorFlow
+- [GROMACS](http://github.com/oxford-arc/bench-gromacs-gpu)
+- [TensorFlow](http://github.com/oxford-arc/bench-tensorflow-gpu)
 
 ### Single Node CPU
 
-- OpenFOAM v1912
+- [OpenFOAM](http://github.com/oxford-arc/bench-openfoam)
 
 ### Multinode CPU
 
