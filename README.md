@@ -26,7 +26,7 @@ The following single node benchmarks are run from *Singularity* containers which
 
 ### Multi-Node CPU
 
-- GROMACS
+- [GROMACS](http://github.com/oxford-arc/bench-gromacs-cpu)
 - VASP
 - NAMD
 
