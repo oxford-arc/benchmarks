@@ -4,11 +4,11 @@ The following benchmarks are available and should be used where requested. Where
 
 ## Synthetic Benchmarks
 
-- HPL
-- STREAM
-- IOR
-- mdtest
-- LinkTest (Parallel MPI PingPong Test)
+- [HPL] (http://github.com/oxford-arc/HPL-and-STREAM)
+- [STREAM] (http://github.com/oxford-arc/HPL-and-STREAM)
+- IOR (acceptance test only)
+- mdtest (acceptance test only)
+- LinkTest (Parallel MPI PingPong Test; acceptance test only)
 
 ## Application Benchmarks
 
