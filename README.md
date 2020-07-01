@@ -29,5 +29,7 @@ The following single node benchmarks are run from *Singularity* containers which
 
 - [GROMACS](http://github.com/oxford-arc/bench-gromacs-cpu)
 - [CP2K](http://github.com/oxford-arc/bench-cp2k-cpu)
+- [OpenSBLI](http://github.com/oxford-arc/bench-opensbli-cpu)
+
 
 
