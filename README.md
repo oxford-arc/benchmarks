@@ -8,7 +8,7 @@ The following benchmarks are available and should be used where requested. Where
 - [STREAM](http://github.com/oxford-arc/HPL-and-STREAM)
 - [IOR (acceptance test only)](http://github.com/oxford-arc/HPC-IO-Benchmark)
 - [mdtest (acceptance test only)](http://github.com/oxford-arc/HPC-IO-Benchmark)
-- LinkTest (Parallel MPI PingPong Test; acceptance test only)
+- [LinkTest (Parallel MPI PingPong Test; acceptance test only)](https://github.com/oxford-arc/LinkTest)
 
 ## Application Benchmarks
 
