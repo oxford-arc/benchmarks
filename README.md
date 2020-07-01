@@ -5,9 +5,10 @@ The following benchmarks are available and should be used where requested. Where
 ## Synthetic Benchmarks
 
 - HPL
+- STREAM
 - IOR
-- Bonnie++
-- Linktest
+- mdtest
+- LinkTest (Parallel MPI PingPong Test)
 
 ## Application Benchmarks
 
