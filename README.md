@@ -11,7 +11,7 @@ The following benchmarks are available and should be used where requested. Where
 
 ## Application Benchmarks
 
-### Single Node
+### Small (Single Node)
 
 The following single node benchmarks are run from *Singularity* containers which are built as part of the installation process. Detailled instructions can be found in the README of each benchmark below:
 
@@ -24,7 +24,7 @@ The following single node benchmarks are run from *Singularity* containers which
 
 - [OpenFOAM](http://github.com/oxford-arc/bench-openfoam)
 
-### Multi-Node 
+### Large (Multi-Node) 
 
 - [GROMACS](http://github.com/oxford-arc/bench-gromacs-cpu)
 - [CP2K](http://github.com/oxford-arc/bench-cp2k-cpu)
