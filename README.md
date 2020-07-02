@@ -14,7 +14,7 @@ The following benchmarks are available and should be used where requested. Where
 
 ### Small (Single Node)
 
-The following single node benchmarks are run from *Singularity* containers which are built as part of the installation process. Detailled instructions can be found in the README of each benchmark below:
+The following single node benchmarks are run from *Singularity* containers which are downloaded or built as part of the installation process. Detailled instructions can be found in the README of each benchmark below:
 
 #### GPU
 
