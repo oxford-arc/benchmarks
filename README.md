@@ -1,6 +1,6 @@
 # Benchmarks
 
-The following benchmarks should be used to provide performance data for tender responses. Where appropriate we have provided instructions for building and running the benchmark and the results obtained on ARC compute equipment. Some tests will be used for acceptance testing only - these being the synthetic tests IOR and mdtest. 
+The following benchmarks should be used to provide performance data for tender responses. Where appropriate we have provided instructions for building and running the benchmark and the results obtained on current ARC HPC clusters. Some tests will be used for acceptance testing only - these being the synthetic tests IOR and mdtest. 
 
 ## Synthetic Benchmarks
 
