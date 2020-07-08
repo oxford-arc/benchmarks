@@ -32,5 +32,5 @@ The following single node benchmarks are run from *Singularity* containers which
 - [CP2K](http://github.com/oxford-arc/bench-cp2k-cpu)
 - [OpenSBLI](http://github.com/oxford-arc/bench-opensbli-cpu)
 
-The licence for the ARCHER application benchmark procedures and scripts can be found [here](https://github.com/hpc-uk/archer-benchmarks/blob/master/LICENSE.md)
+Licence information for the ARCHER application benchmark procedures and scripts can be found [here](https://github.com/hpc-uk/archer-benchmarks/blob/master/LICENSE.md)
 
